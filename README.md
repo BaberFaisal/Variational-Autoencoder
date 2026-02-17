@@ -10,13 +10,13 @@ This project implements a **Variational Autoencoder (VAE)** for generating reali
 
 ### Key Features
 
-- ✅ Standard Autoencoder baseline for comparison
-- ✅ Full VAE implementation with reparameterization trick
-- ✅ CelebA face dataset (64×64 grayscale images)
-- ✅ Latent space manipulation for facial attributes (smile/no-smile)
-- ✅ Exponential Moving Average (EMA) for stable training
-- ✅ Mixed precision training (FP16) for efficiency
-- ✅ Checkpoint saving and resumable training
+-  Standard Autoencoder baseline for comparison
+-  Full VAE implementation with reparameterization trick
+-  CelebA face dataset (64×64 grayscale images)
+-  Latent space manipulation for facial attributes (smile/no-smile)
+-  Exponential Moving Average (EMA) for stable training
+-  Mixed precision training (FP16) for efficiency
+-  Checkpoint saving and resumable training
 
 ## Dataset
 
